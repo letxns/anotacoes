@@ -13,6 +13,6 @@ class Anotacoes {
         }
     }
 }
-
+/*
 let teste1 = new Anotacoes("teste", "ola");
-let teste2 = new Anotacoes(5, "ola");
+let teste2 = new Anotacoes(5, "ola");*/
